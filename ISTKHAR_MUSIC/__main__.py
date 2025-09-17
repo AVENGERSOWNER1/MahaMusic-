@@ -50,7 +50,7 @@ async def init():
         pass
     await noor.decorators()
     LOGGER("ISTKHAR_MUSIC").info(
-        "ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @THUNDERDEVS ᴊᴏɪɴ @THUNDERDEVS , @ISTKHAR_BOT ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
+        "ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @AvengersNetwork ᴊᴏɪɴ @AvengersNetwork , @iTzAvengers ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
     )
     await idle()
     await app.stop()
